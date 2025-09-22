@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "author": "Hanif Luqmanul Hakim",
+  "created": "2024",
+  "description": "Diagram koneksi untuk simulasi I/O lampu LED",
+  "connections": [
+    {
+      "component": "LED 1",
+      "pin": "2",
+      "type": "Digital Output"
+    },
+    {
+      "component": "LED 2",
+      "pin": "3",
+      "type": "Digital Output"
+    },
+    {
+      "component": "LED 3",
+      "pin": "4",
+      "type": "Digital Output"
+    },
+    {
+      "component": "LED 4",
+      "pin": "5",
+      "type": "Digital Output"
+    },
+    {
+      "component": "LED 5",
+      "pin": "6",
+      "type": "Digital Output"
+    }
+  ],
+  "notes": "Semua katoda LED terhubung ke GND"
+}
